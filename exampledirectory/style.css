@@ -11,6 +11,6 @@ body {
 }
 
 img {
-    width: 100vw;
+    max-width: 20vw;
     filter: blur(2px);
 }
