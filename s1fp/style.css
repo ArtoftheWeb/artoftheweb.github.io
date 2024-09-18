@@ -40,10 +40,12 @@ a:visited {
 
 a:hover {
     color: rgb(50, 50, 250);
+    text-decoration: none;
 }
 
 a:active {
     color: rgb(255, 25, 0);
+    text-decoration: underline;
 }
 
 #slider {
